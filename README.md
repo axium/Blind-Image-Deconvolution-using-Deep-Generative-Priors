@@ -19,12 +19,6 @@ This paper proposes a novel approach to regularize the *ill-posed* and *non-line
 
 Test images used for producing results in the paper are also made available in `results` folder along with our recovered images. Implementation of both algorithm 1 and 2 (proposed in paper) have been made available, along with pre-trained generative models for both image datasets and blurs. Code for algorithm 3 will be uploaded soon.
 
-
-<br><br>
-<br><br>
-<br><br>
-
-
 **Note:**
 For re-producing results using [PG-GAN](https://arxiv.org/abs/1710.10196) as generative model  (in paper), pre-trained model ,images from paper and deblurring code is also made available in folder `pg_gan`.  
 
