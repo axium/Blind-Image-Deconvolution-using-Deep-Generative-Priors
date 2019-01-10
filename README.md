@@ -23,3 +23,44 @@ Test images used for producing results in the paper are also made available in `
 
 **Note:**
 For re-producing results using [PG-GAN](https://arxiv.org/abs/1710.10196) as generative model  (in paper), pre-trained model ,images from paper and deblurring code is also made available in folder `pg_gan`.  
+
+
+
+**Experimental Results**
+
+Image deblurred using Algorithm 1, 2 and 3 are denoted as <a href="https://www.codecogs.com/eqnedit.php?latex=\hat{i}_1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{i}_1" title="\hat{i}_1" /></a> , <a href="https://www.codecogs.com/eqnedit.php?latex=\hat{i}_2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{i}_2" title="\hat{i}_2" /></a> and <a href="https://www.codecogs.com/eqnedit.php?latex=\hat{i}_3" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{i}_3" title="\hat{i}_3" /></a>.
+
+
+
+![pg_gan_results](C:\Users\asimm\Documents\GitHub\Blind-Image-Deconvolution-using-Deep-Generative-Priors\images\pg_gan_results.PNG)
+
+​			*Fig. 1: Deblurring using Algorithm 1 and Algorithm 2 using PG-GAN against baseline methods.*
+
+
+
+![asdas](./images/celeba_results.png)
+
+​			*Fig. 2: Deblurring using Algorithm 1 and Algorithm 2 on celeba against baseline methods.*
+
+
+
+![svhn_results](C:\Users\asimm\Documents\GitHub\Blind-Image-Deconvolution-using-Deep-Generative-Priors\images\svhn_results.PNG)
+
+​			*Fig. 3: Deblurring using Algorithm 1 and Algorithm 2 on svhn against baseline methods.*
+
+
+
+
+
+![large_blurs](C:\Users\asimm\Documents\GitHub\Blind-Image-Deconvolution-using-Deep-Generative-Priors\images\large_blurs.PNG)
+
+​				*Fig. 4: Generative priors yield excellent results from unrecognizable blurry faces  .*
+
+
+
+
+
+![noisy](C:\Users\asimm\Documents\GitHub\Blind-Image-Deconvolution-using-Deep-Generative-Priors\images\noisy.PNG)
+
+​							*Fig. 5: Generative priors are robust under noise.*
+
