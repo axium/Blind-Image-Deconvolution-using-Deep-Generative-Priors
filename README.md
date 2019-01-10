@@ -52,14 +52,12 @@ Deblurring using Algorithm 1 and Algorithm 2 on svhn against baseline methods
 </p>
 
 <br><br>
-<br><br>
 
 Generative priors yield excellent results from unrecognizable blurry faces
 <p align="center">
   <img src="./images/large_blurs.PNG" width="500" title="Generative priors yield excellent results from unrecognizable blurry faces">
 </p>
 
-<br><br>
 <br><br>
 
 Generative priors are robust under noise
