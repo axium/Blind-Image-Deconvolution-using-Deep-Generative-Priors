@@ -20,16 +20,25 @@ This paper proposes a novel approach to regularize the *ill-posed* and *non-line
 Test images used for producing results in the paper are also made available in `results` folder along with our recovered images. Implementation of both algorithm 1 and 2 (proposed in paper) have been made available, along with pre-trained generative models for both image datasets and blurs. Code for algorithm 3 will be uploaded soon.
 
 
+<br><br>
+<br><br>
+<br><br>
+
 
 **Note:**
 For re-producing results using [PG-GAN](https://arxiv.org/abs/1710.10196) as generative model  (in paper), pre-trained model ,images from paper and deblurring code is also made available in folder `pg_gan`.  
 
-
+<br><br>
+<br><br>
+<br><br>
 
 **Experimental Results**
 
 Image deblurred using Algorithm 1, 2 and 3 are denoted as <a href="https://www.codecogs.com/eqnedit.php?latex=\hat{i}_1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{i}_1" title="\hat{i}_1" /></a> , <a href="https://www.codecogs.com/eqnedit.php?latex=\hat{i}_2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{i}_2" title="\hat{i}_2" /></a> and <a href="https://www.codecogs.com/eqnedit.php?latex=\hat{i}_3" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{i}_3" title="\hat{i}_3" /></a>.
 
+
+<br><br>
+<br><br>
 
 Deblurring results for Algorithm 1 using PG-GAN against baseline methods
 <p align="center">
@@ -37,23 +46,32 @@ Deblurring results for Algorithm 1 using PG-GAN against baseline methods
 </p>
 
 
+<br><br>
+<br><br>
+
 Deblurring using Algorithm 1 and Algorithm 2 on celeba against baseline methods
 <p align="center">
   <img src="./images/celeba_results.PNG" width="500" title="Deblurring using Algorithm 1 and Algorithm 2 on celeba against baseline methods">
 </p>
 
+<br><br>
+<br><br>
 
 Deblurring using Algorithm 1 and Algorithm 2 on svhn against baseline methods
 <p align="center">
   <img src="./images/svhn_results.PNG" width="500" title="Deblurring using Algorithm 1 and Algorithm 2 on svhn against baseline methods">
 </p>
 
+<br><br>
+<br><br>
 
 Generative priors yield excellent results from unrecognizable blurry faces
 <p align="center">
   <img src="./images/large_blurs.PNG" width="500" title="Generative priors yield excellent results from unrecognizable blurry faces">
 </p>
 
+<br><br>
+<br><br>
 
 Generative priors are robust under noise
 <p align="center">
