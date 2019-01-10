@@ -1,12 +1,12 @@
 # Blind-Image-Deconvolution-using-Deep-Generative-Priors
 Code for reproducing the result of paper [Blind Image Deconvolution using Deep Generative Priors](https://arxiv.org/abs/1802.04073). 
 
-
+<br><br>
 
 **Abstract**
 This paper proposes a novel approach to regularize the *ill-posed* and *non-linear* blind image deconvolution (blind deblurring) using deep generative networks as priors. We employ two separate generative models --- one trained to produce sharp images while the other trained to generate blur kernels from lower-dimensional parameters.  To deblur, we propose an alternating gradient descent scheme operating in the latent lower-dimensional space of each of the pretrained generative models. Our experiments show promising deblurring results on  images even under large blurs, and heavy noise. To address the shortcomings of generative models such as mode collapse, we augment our generative priors with classical image priors and report improved performance on complex image datasets. The deblurring performance depends on how well the range of the generator spans the image class. Interestingly, our experiments show that even an untrained structured (convolutional) generative networks acts as an image prior in the image deblurring context allowing us to extend our results to more diverse natural image datasets. 
 
-
+<br><br>
 
 **How to Run**
 
@@ -23,15 +23,12 @@ Test images used for producing results in the paper are also made available in `
 For re-producing results using [PG-GAN](https://arxiv.org/abs/1710.10196) as generative model  (in paper), pre-trained model ,images from paper and deblurring code is also made available in folder `pg_gan`.  
 
 <br><br>
-<br><br>
-<br><br>
 
 **Experimental Results**
 
 Image deblurred using Algorithm 1, 2 and 3 are denoted as <a href="https://www.codecogs.com/eqnedit.php?latex=\hat{i}_1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{i}_1" title="\hat{i}_1" /></a> , <a href="https://www.codecogs.com/eqnedit.php?latex=\hat{i}_2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{i}_2" title="\hat{i}_2" /></a> and <a href="https://www.codecogs.com/eqnedit.php?latex=\hat{i}_3" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{i}_3" title="\hat{i}_3" /></a>.
 
 
-<br><br>
 <br><br>
 
 Deblurring results for Algorithm 1 using PG-GAN against baseline methods
@@ -41,14 +38,12 @@ Deblurring results for Algorithm 1 using PG-GAN against baseline methods
 
 
 <br><br>
-<br><br>
 
 Deblurring using Algorithm 1 and Algorithm 2 on celeba against baseline methods
 <p align="center">
   <img src="./images/celeba_results.PNG" width="500" title="Deblurring using Algorithm 1 and Algorithm 2 on celeba against baseline methods">
 </p>
 
-<br><br>
 <br><br>
 
 Deblurring using Algorithm 1 and Algorithm 2 on svhn against baseline methods
