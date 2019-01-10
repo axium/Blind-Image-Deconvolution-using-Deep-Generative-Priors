@@ -32,35 +32,20 @@ Image deblurred using Algorithm 1, 2 and 3 are denoted as <a href="https://www.c
 
 
 
-![pg_gan_results](C:\Users\asimm\Documents\GitHub\Blind-Image-Deconvolution-using-Deep-Generative-Priors\images\pg_gan_results.PNG)
-
-​			*Fig. 1: Deblurring using Algorithm 1 and Algorithm 2 using PG-GAN against baseline methods.*
+![Deblurring results for Algorithm 1 using PG-GAN against baseline methods](./images/pg_gan_results.PNG)
 
 
 
-![celeba_results](./images/celeba_results.png)
-
-​			*Fig. 2: Deblurring using Algorithm 1 and Algorithm 2 on celeba against baseline methods.*
+![Deblurring using Algorithm 1 and Algorithm 2 on celeba against baseline methods](./images/celeba_results.PNG)
 
 
 
-![svhn_results](C:\Users\asimm\Documents\GitHub\Blind-Image-Deconvolution-using-Deep-Generative-Priors\images\svhn_results.PNG)
-
-​			*Fig. 3: Deblurring using Algorithm 1 and Algorithm 2 on svhn against baseline methods.*
+![Deblurring using Algorithm 1 and Algorithm 2 on svhn against baseline methods](./images/svhn_results.PNG)
 
 
 
-
-
-![large_blurs](C:\Users\asimm\Documents\GitHub\Blind-Image-Deconvolution-using-Deep-Generative-Priors\images\large_blurs.PNG)
-
-​				*Fig. 4: Generative priors yield excellent results from unrecognizable blurry faces  .*
+![Generative priors yield excellent results from unrecognizable blurry faces](./images/large_blurs.PNG)
 
 
 
-
-
-![noisy](C:\Users\asimm\Documents\GitHub\Blind-Image-Deconvolution-using-Deep-Generative-Priors\images\noisy.PNG)
-
-​							*Fig. 5: Generative priors are robust under noise.*
-
+![Generative priors are robust under noise](./images/noisy.PNG)
