@@ -38,7 +38,7 @@ Image deblurred using Algorithm 1, 2 and 3 are denoted as <a href="https://www.c
 
 
 
-![asdas](./images/celeba_results.png)
+![celeba_results](./images/celeba_results.png)
 
 ​			*Fig. 2: Deblurring using Algorithm 1 and Algorithm 2 on celeba against baseline methods.*
 
