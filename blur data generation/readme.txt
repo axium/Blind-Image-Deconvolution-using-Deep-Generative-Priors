@@ -1,0 +1,1 @@
+To generate motion blur dataset, simply run "blur_data_generate.m" file.
