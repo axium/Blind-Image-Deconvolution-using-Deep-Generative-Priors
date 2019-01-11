@@ -26,8 +26,7 @@ For re-producing results using [PG-GAN](https://arxiv.org/abs/1710.10196) as gen
 
 **Experimental Results**
 
-Image deblurred using Algorithm 1, 2 and 3 are denoted as <a href="https://www.codecogs.com/eqnedit.php?latex=\hat{i}_1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{i}_1" title="\hat{i}_1" /></a> , <a href="https://www.codecogs.com/eqnedit.php?latex=\hat{i}_2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{i}_2" title="\hat{i}_2" /></a> and <a href="https://www.codecogs.com/eqnedit.php?latex=\hat{i}_3" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{i}_3" title="\hat{i}_3" /></a>.
-
+Image deblurred using Algorithm 1 and 2 are denoted as <a href="https://www.codecogs.com/eqnedit.php?latex=\hat{i}_1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{i}_1" title="\hat{i}_1" /></a> and  <a href="https://www.codecogs.com/eqnedit.php?latex=\hat{i}_2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{i}_2" title="\hat{i}_2" /></a>.
 
 <br><br>
 
