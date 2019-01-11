@@ -30,11 +30,10 @@ Image deblurred using Algorithm 1 and 2 are denoted as <a href="https://www.code
 
 <br><br>
 
-
 <p align="center">
   <img src="./images/pg_gan_results.PNG" width="800" title="Deblurring results for Algorithm 1 using PG-GAN against baseline methods">
 </p>
-<center> <i> Deblurring results for Algorithm 1 using PG-GAN against baseline methods </i> </center>
+<center> <i> <small> Deblurring results for Algorithm 1 using PG-GAN against baseline methods </i> </small> </center>
 
 
 
@@ -44,7 +43,7 @@ Image deblurred using Algorithm 1 and 2 are denoted as <a href="https://www.code
 <p align="center">
   <img src="./images/celeba_results.PNG" width="800" title="Deblurring using Algorithm 1 and Algorithm 2 on celeba against baseline methods">
 </p>
-<center> <i> Deblurring using Algorithm 1 and Algorithm 2 on celeba against baseline methods </i></center>
+<center> <i> <small>  Deblurring using Algorithm 1 and Algorithm 2 on celeba against baseline methods </small> </i> </center>
 
 
 
@@ -54,7 +53,7 @@ Image deblurred using Algorithm 1 and 2 are denoted as <a href="https://www.code
 <p align="center">
   <img src="./images/svhn_results.PNG" width="800" title="Deblurring using Algorithm 1 and Algorithm 2 on svhn against baseline methods">
 </p>
-<center> <i>Deblurring using Algorithm 1 and Algorithm 2 on svhn against baseline methods</i></center> 
+<center> <i> <small> Deblurring using Algorithm 1 and Algorithm 2 on svhn against baseline methods <small> </i> </center> 
 
 
 
@@ -66,7 +65,7 @@ Image deblurred using Algorithm 1 and 2 are denoted as <a href="https://www.code
   <img src="./images/large_blurs.PNG" width="350" title="Generative priors yield excellent results from unrecognizable blurry faces">
   <img src="./images/noisy.PNG" width="325" title="Generative priors are robust under noise">
 </p>
-<center> <i>Generative priors yield excellent results from unrecognizable blurry faces and are robust under noise.</i> </center>
+<center> <i> <small> Generative priors yield excellent results from unrecognizable blurry faces and are robust under noise. </small> </i> </center>
 
 
 
