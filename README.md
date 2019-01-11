@@ -33,35 +33,33 @@ Image deblurred using Algorithm 1, 2 and 3 are denoted as <a href="https://www.c
 
 Deblurring results for Algorithm 1 using PG-GAN against baseline methods
 <p align="center">
-  <img src="./images/pg_gan_results.PNG" width="500" title="Deblurring results for Algorithm 1 using PG-GAN against baseline methods">
+  <img src="./images/pg_gan_results.PNG" width="800" title="Deblurring results for Algorithm 1 using PG-GAN against baseline methods">
 </p>
+
 
 
 <br><br>
 
 Deblurring using Algorithm 1 and Algorithm 2 on celeba against baseline methods
 <p align="center">
-  <img src="./images/celeba_results.PNG" width="500" title="Deblurring using Algorithm 1 and Algorithm 2 on celeba against baseline methods">
+  <img src="./images/celeba_results.PNG" width="800" title="Deblurring using Algorithm 1 and Algorithm 2 on celeba against baseline methods">
 </p>
 
 <br><br>
 
 Deblurring using Algorithm 1 and Algorithm 2 on svhn against baseline methods
 <p align="center">
-  <img src="./images/svhn_results.PNG" width="500" title="Deblurring using Algorithm 1 and Algorithm 2 on svhn against baseline methods">
+  <img src="./images/svhn_results.PNG" width="800" title="Deblurring using Algorithm 1 and Algorithm 2 on svhn against baseline methods">
 </p>
 
 <br><br>
 
-Generative priors yield excellent results from unrecognizable blurry faces
+Generative priors yield excellent results from unrecognizable blurry faces and are robust under noise.
 <p align="center">
-  <img src="./images/large_blurs.PNG" width="500" title="Generative priors yield excellent results from unrecognizable blurry faces">
+  <img src="./images/large_blurs.PNG" width="350" title="Generative priors yield excellent results from unrecognizable blurry faces">
+  <img src="./images/noisy.PNG" width="325" title="Generative priors are robust under noise">
 </p>
 
-<br><br>
 
-Generative priors are robust under noise
-<p align="center">
-  <img src="./images/noisy.PNG" width="500" title="Generative priors are robust under noise">
-</p>
+
 
