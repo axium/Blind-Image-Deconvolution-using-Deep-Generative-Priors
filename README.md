@@ -62,3 +62,5 @@ Generative priors yield excellent results from unrecognizable blurry faces and a
 
 
 
+![asdsaldnsa ](C:\Users\asimm\Documents\GitHub\Blind-Image-Deconvolution-using-Deep-Generative-Priors\images\celeba_results.png)
+
