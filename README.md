@@ -26,14 +26,16 @@ For re-producing results using [PG-GAN](https://arxiv.org/abs/1710.10196) as gen
 
 **Experimental Results**
 
-Image deblurred using Algorithm 1 and 2 are denoted as <a href="https://www.codecogs.com/eqnedit.php?latex=\hat{i}_1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{i}_1" title="\hat{i}_1" /></a> and  <a href="https://www.codecogs.com/eqnedit.php?latex=\hat{i}_2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{i}_2" title="\hat{i}_2" /></a>.
+Image deblurred using Algorithm 1, 2 and 3 are denoted as <a href="https://www.codecogs.com/eqnedit.php?latex=\hat{i}_1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{i}_1" title="\hat{i}_1" /></a> , <a href="https://www.codecogs.com/eqnedit.php?latex=\hat{i}_2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{i}_2" title="\hat{i}_2" /></a> and <a href="https://www.codecogs.com/eqnedit.php?latex=\hat{i}_3" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{i}_3" title="\hat{i}_3" /></a>.
+
 
 <br><br>
+
 
 <p align="center">
   <img src="./images/pg_gan_results.PNG" width="800" title="Deblurring results for Algorithm 1 using PG-GAN against baseline methods">
 </p>
-<center> <i> <small> Deblurring results for Algorithm 1 using PG-GAN against baseline methods </i> </small> </center>
+<center> <i> Deblurring results for Algorithm 1 using PG-GAN against baseline methods </i> </center>
 
 
 
@@ -43,7 +45,7 @@ Image deblurred using Algorithm 1 and 2 are denoted as <a href="https://www.code
 <p align="center">
   <img src="./images/celeba_results.PNG" width="800" title="Deblurring using Algorithm 1 and Algorithm 2 on celeba against baseline methods">
 </p>
-<center> <i> <small>  Deblurring using Algorithm 1 and Algorithm 2 on celeba against baseline methods </small> </i> </center>
+<center> <i> Deblurring using Algorithm 1 and Algorithm 2 on celeba against baseline methods </i></center>
 
 
 
@@ -53,7 +55,7 @@ Image deblurred using Algorithm 1 and 2 are denoted as <a href="https://www.code
 <p align="center">
   <img src="./images/svhn_results.PNG" width="800" title="Deblurring using Algorithm 1 and Algorithm 2 on svhn against baseline methods">
 </p>
-<center> <i> <small> Deblurring using Algorithm 1 and Algorithm 2 on svhn against baseline methods <small> </i> </center> 
+<center> <i>Deblurring using Algorithm 1 and Algorithm 2 on svhn against baseline methods</i></center> 
 
 
 
@@ -65,7 +67,7 @@ Image deblurred using Algorithm 1 and 2 are denoted as <a href="https://www.code
   <img src="./images/large_blurs.PNG" width="350" title="Generative priors yield excellent results from unrecognizable blurry faces">
   <img src="./images/noisy.PNG" width="325" title="Generative priors are robust under noise">
 </p>
-<center> <i> <small> Generative priors yield excellent results from unrecognizable blurry faces and are robust under noise. </small> </i> </center>
+<center> <i>Generative priors yield excellent results from unrecognizable blurry faces and are robust under noise.</i> </center>
 
 
 
