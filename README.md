@@ -30,37 +30,45 @@ Image deblurred using Algorithm 1 and 2 are denoted as <a href="https://www.code
 
 <br><br>
 
-Deblurring results for Algorithm 1 using PG-GAN against baseline methods
+
 <p align="center">
   <img src="./images/pg_gan_results.PNG" width="800" title="Deblurring results for Algorithm 1 using PG-GAN against baseline methods">
 </p>
+<center> <i> Deblurring results for Algorithm 1 using PG-GAN against baseline methods </i> </center>
 
 
 
 <br><br>
 
-Deblurring using Algorithm 1 and Algorithm 2 on celeba against baseline methods
+
 <p align="center">
   <img src="./images/celeba_results.PNG" width="800" title="Deblurring using Algorithm 1 and Algorithm 2 on celeba against baseline methods">
 </p>
+<center> <i> Deblurring using Algorithm 1 and Algorithm 2 on celeba against baseline methods </i></center>
+
+
 
 <br><br>
 
-Deblurring using Algorithm 1 and Algorithm 2 on svhn against baseline methods
+
 <p align="center">
   <img src="./images/svhn_results.PNG" width="800" title="Deblurring using Algorithm 1 and Algorithm 2 on svhn against baseline methods">
 </p>
+<center> <i>Deblurring using Algorithm 1 and Algorithm 2 on svhn against baseline methods</i></center> 
+
+
 
 <br><br>
 
-Generative priors yield excellent results from unrecognizable blurry faces and are robust under noise.
+
+
 <p align="center">
   <img src="./images/large_blurs.PNG" width="350" title="Generative priors yield excellent results from unrecognizable blurry faces">
   <img src="./images/noisy.PNG" width="325" title="Generative priors are robust under noise">
 </p>
+<center> <i>Generative priors yield excellent results from unrecognizable blurry faces and are robust under noise.</i> </center>
 
 
 
 
-![asdsaldnsa ](C:\Users\asimm\Documents\GitHub\Blind-Image-Deconvolution-using-Deep-Generative-Priors\images\celeba_results.png)
 
